@@ -14,12 +14,14 @@ Premier projet Onepage
 
 ## Ressources
 
+
+
 ## Ce que j'ai appris
 
 1. Usage avancé de google font 
-	* Usage de import (@import) à placer dans le css au lieu du standard(link)
+	* Usage de import (@import) à placer dans le css au lieu du standard (link)
 	* Emploi de l'option customize pour importer uniquement les variantes nécessaires de la polices
-	* Via l'option de selection de polices, selection multiples de polices, customization et récupération d'un code d'une seule ligne d'import pour intégrer plusieurs polices et leurs variantes choisies dans ma page.
+	* Via l'option de selection de polices, selection multiples de polices, customization et récupération d'une seule ligne de code d'import pour intégrer plusieurs polices et leurs variantes choisies dans ma page.
 
 **Exemple:**
 
