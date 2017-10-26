@@ -8,7 +8,7 @@ Premier projet Onepage
 3. Background fixe et défilement
 4. Background-color et transparence
 5. Menu hamburger avec affichage du menu dans une modal window 
-6. esponsive design (si le temps explore bootstraap ou 960 grid ou autres framework pour aborder responsive autrement, si pas le temps media queries manuelles)
+6. Responsive design (si le temps explore bootstraap ou 960 grid ou autres framework pour aborder responsive autrement, si pas le temps media queries manuelles)
 7. Usage de Font Awesome (http://fontawesome.io/) pour les icônes
 8. Fonts personnalisées avec google fonts (https://fonts.google.com/)
 
