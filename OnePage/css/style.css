@@ -1,49 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway:200,700|Source+Sans+Pro:300,300i,600,600i');
 
-/* Reset */
-
-	/*html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
-		margin: 0;
-		padding: 0;
-		border: 0;
-		font-size: 100%;
-		font: inherit;
-		vertical-align: baseline;
-	}
-
-	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
-		display: block;
-	}
-
-	body {
-		line-height: 1;
-	}
-
-	ol, ul {
-		list-style: none;
-	}
-
-	blockquote, q {
-		quotes: none;
-	}
-
-	blockquote:before, blockquote:after, q:before, q:after {
-		content: '';
-		content: none;
-	}
-
-	table {
-		border-collapse: collapse;
-		border-spacing: 0;
-	}
-
-	body {
-		-webkit-text-size-adjust: none;
-	}*/
-
-body
+#container
 {
-	background-color:blue;
+	background-image: url(images/blue-1920x1279.jpg);
 }
 
 /*Mon logo sous forme d'icone font awesome*/
@@ -51,4 +10,67 @@ body
 #logo
 {
 	color: #fff;
+}
+
+#header
+{
+	background-color: rgba(255, 0, 0, 0.5);
+}
+
+#section1
+{
+	background-color: #4C5C96;
+	width: 100%;
+	height: 200px;
+}
+
+#section2
+{
+	background-color: #45558D;
+	width: 100%;
+	height: 200px;
+}
+
+#section3
+{
+	background-color: #3F4E85;
+	width: 100%;
+	height: 200px;
+}
+
+#photo_section1, #photo_section2, #photo_section3
+{
+	width: 200px;
+	height:200px;
+	border-radius: 100%;
+}
+
+#section4
+{
+	background-color: #2E3141;
+	width: 100%;
+	height: 200px;
+	display: flex;
+	flex-direction: row;
+}
+
+.sous-blok
+{
+	width: 40%;
+	background-color: #353849;
+	border-radius: 5px;
+	margin-bottom: 15px;
+}
+
+.sous-blok img
+{
+	width: 100%;
+	height: 250px;
+}
+
+
+#section5
+{
+	width: 100%;
+	height: 200px;
 }
